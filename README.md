@@ -1,0 +1,2 @@
+# SchemaGenerator
+ The basic idea behind developing this utility is to emit the database schema from an existing SQL Server database. From a developer perspective, it is sometimes very much handy to quickly take a printout of the database structure for creating the UI layout or to specify some validation rules. If the database structure is available in printable format, then it will serve the purpose of robust programming and effective UI layout, because the developer can establish spontaneity between the database structure and the UI elements.
